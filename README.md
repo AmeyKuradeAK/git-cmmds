@@ -51,3 +51,13 @@ The following command is used to link local repo to online repo
 ```
 > URL: Link of the online repo or github repo that you had created.
 
+# Pushing
+The following command is used to push any changes to online repository.
+
+```console
+    git push
+```
+or
+```console
+    git push origin main
+```
