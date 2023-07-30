@@ -68,3 +68,10 @@ The following command is used to clone github repo to your local machine.
     git clone <URL>
 ```
 > URL: The link of .git repo.
+
+# Pulling
+The following command is used to pull any changes made in online repo to your local machine.
+
+```console
+    git pull
+```
