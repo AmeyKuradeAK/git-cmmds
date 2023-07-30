@@ -16,3 +16,18 @@ The following command is used to viev status of local repository. <br>
 ```console
     git status
 ```
+
+# Add or track file (Add untrached files or changes to track state)
+The following command is used to add changes for commit in local repository. <br> 
+"Note: it is not yet online"
+
+```console
+    git add <File name>
+```
+
+Or
+
+```console
+    git add .
+```
+> . is used to state the whole folder or local directory.
