@@ -61,3 +61,10 @@ or
 ```console
     git push origin main
 ```
+# Cloning any Git Repo.
+The following command is used to clone github repo to your local machine.
+
+```console
+    git clone <URL>
+```
+> URL: The link of .git repo.
