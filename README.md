@@ -31,3 +31,13 @@ Or
     git add .
 ```
 > . is used to state the whole folder or local directory.
+
+# Commiting
+The following command is used to commit the tracked changes in local repositry. It is also used in online too.
+
+```console
+    git commit -m "independent text"
+```
+
+> -m means message <br>
+> "Type ur message for commit"
