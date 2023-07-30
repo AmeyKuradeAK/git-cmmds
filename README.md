@@ -75,4 +75,6 @@ The following command is used to pull any changes made in online repo to your lo
 ```console
     git pull
 ```
+# Reference
 
+<img src="./git-cmnds.png">
