@@ -41,3 +41,13 @@ The following command is used to commit the tracked changes in local repositry. 
 
 > -m means message <br>
 > "Type ur message for commit"
+
+# Remotly link to online or Github Repository
+
+The following command is used to link local repo to online repo
+
+```console
+    git remote add origin <URL>
+```
+> URL: Link of the online repo or github repo that you had created.
+
